@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LyricLens - AI Music Identifier",
+  "description": "Identify songs, extract lyrics, and analyze audio using Google Gemini AI. Supports local file upload and real-time listening.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
